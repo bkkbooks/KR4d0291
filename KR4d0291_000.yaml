@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0291/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0291_WYG_000-1a, image: WYG1170/WYG1170-0001a.png}
+body:
+  text: 華亭百詠别集類三宋提要臣等謹案華亭百詠一卷宋許尚撰尚自號和光老人華亭人其始末無考是編作于淳熙間取華亭古蹟每一事為一絶句題下各為之注然百篇之中無注者凡二十九而其中多有非注不明者以例推之當日不容不注殆傳寫佚脫歟弔古之詩大抵不出今昔之感自唐許渾諸人已不能拔出窠臼至于一地之景衍成百首則數首以後語意略同固亦其所厲鶚作宋詩紀事僅録其陸機茸三女岡征北將軍墓顧亭林白龍洞俞塘普照寺陸瑁養魚池唳鶴灘湖光亭十首亦以其罕逢新警故也然格意雖多復衍而措詞修潔尚不失為雅音所注雖簡略而其時在今五六百年之前舊跡猶未全湮方隅之所在名目之所由亦尚足備志乘之參考在詩家則無異於衆人在輿記之中則視後來支離附㑹者勝之多矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:85448707bbbd1bd272199d805f9626adf10deab35230139e02608546d4d004a6
+metadata:
+  title: 華亭百詠
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:02:56.965521'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0291/KR4d0291_000.txt
+hash: sha256:54656b1d6ac089b889c307b7beaebc1d42bb97ac65018eb925dcbd528f2d3b31

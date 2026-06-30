@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4d0291/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0291/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華亭百詠
+  date: '2015-08-25 00:02:56.965521'
+  source:
+    repository: kanripo
+    path: KR4d0291
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0291_000-WYG.yaml, hash: 'sha256:85c30fa09db6757f8cf463417fb3a038956e1a2d5194029e1a2921d0d7268b7a'}
+  - {seq: 1, filename: KR4d0291_001-WYG.yaml, hash: 'sha256:b7d0dc84248a43d345e598b7db13298fb24fb1ba6259bf2d26081c9ba62008d1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0291_000-WYG.markers.yaml, hash: 'sha256:5f8325f9d8bb978061ea6e8f8bb7c02747badc17830a15024e6f5a87a9decf95'}
+  - {seq: 1, role: markers, filename: assets/KR4d0291_001-WYG.markers.yaml, hash: 'sha256:3991c5f55c6681269b15d77bf02e817369615be11027fcf1edbb7dbecca08f06'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0291_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 323
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0291_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2820
+  label: 華亭百詠
+  type: section
+  level: 1
+hash: sha256:8f4f3319c570cc749bd6be2f8f72f4afc3f70a5556a7b1b18d49cb5514300646
