@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0291_000.yaml, hash: 'sha256:278f7d7ab0ec7369dd3b7a53c047abb79cd5256b30acbcb1c859bc612e71bc95'}
   - {seq: 1, filename: KR4d0291_001.yaml, hash: 'sha256:f80a0cea367c2bb35bffec52a2fc7a69515f274c059291af8a5761bf819ac5a9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0291_000.markers.yaml, hash: 'sha256:c883e9168e023bdcca10975cb3d2ffe6e5ac53ce042c5d71afc2d3f7395977fd'}
-  - {seq: 1, role: markers, filename: assets/KR4d0291_001.markers.yaml, hash: 'sha256:623ca00d1d1d36f26beb22b2522772ffbcdb0fa3a2776e818dfdbc540daeeccb'}
+  - {seq: 0, role: markers, filename: assets/KR4d0291_000.markers.yaml, hash: 'sha256:8388a5cc434a182fee1905d9422f7425002603f21948e6249c6217d02ed5981b'}
+  - {seq: 1, role: markers, filename: assets/KR4d0291_001.markers.yaml, hash: 'sha256:cfecb5b643c07b298c2f078271c58c9756b424949b9058a8ee46160259fcb47d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 華亭百詠
   type: section
   level: 1
-hash: sha256:7daa895eb6b8ac0db29364b5aa69cf423b11aa6fd71abaa87dca9d3eddd2b937
+hash: sha256:833c1fb31732f4d7fdacee6663d194cc90499b2692cf391013d686ed870670e8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
